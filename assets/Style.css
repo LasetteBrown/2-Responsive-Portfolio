@@ -1,0 +1,13 @@
+
+
+@media screen and (max-width: 576px){
+   p {
+      float: left;
+   }
+}
+
+@media screen and (max-width: 270px) {
+   body {
+      display:none;
+   }  
+}
