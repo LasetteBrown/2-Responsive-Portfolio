@@ -9,7 +9,7 @@ A mobile responsive portfolio
 <!-- * Add links and photos to portfolio. -->
 * Write a good README.
 * make sure all html is semantic and makes sense.
-* Create a sticky footer.
+<!-- * Create a sticky footer. -->
 * Find out what sub-columns and sub-rows are and implement them on Portfolio page.
 * Each page must have valid and correct HTML. (use a validation service)
 
