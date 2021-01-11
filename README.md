@@ -25,34 +25,34 @@ The content of this website is copyrighted. Please do not use the content withou
 This website was developed as a homework assignment for the University of Denver Full Stack Web Development Boot Camp (https://bootcamp.du.edu/coding/). I was given images as guides for what this websight could look like. I began by attempting to replicate the images exactly so that I could develope my skills in matching a product to the requested design. 
 
 For example I was given the following images:
-![Alt text](/assets/images/992-index.png "example of homepage on large screen")
-![Alt text](/assets/images/768-index.png "example of homepage on medium screen")
-![Alt text](/assets/images/400-index.png "example of homepage on small screen")
+![example of homepage on large screen](./assets/images/992-index.png)
+![example of homepage on medium screen](./assets/images/768-index.png)
+![example of homepage on small screen](./assets/images/400-index.png)
 
 and I created the following pages based on this example:
-![Alt text](/assets/images/992-index-actual.png "my homepage on large screen")
-![Alt text](/assets/images/768-index-actual.png "my homepage on medium screen")
-![Alt text](/assets/images/400-index-actual.png "my homepage on small screen")
+![my homepage on large screen](./assets/images/992-index-actual.png)
+![my homepage on medium screen](./assets/images/768-index-actual.png)
+![my homepage on small screen](./assets/images/400-index-actual.png )
 
 For example I was given the following image:
-![Alt text](/assets/images/992-portfolio.png "example of portfolio page on large screen")
-![Alt text](/assets/images/768-portfolio.png "example of portfolio page on medium screen")
-![Alt text](/assets/images/400-portfolio.png "example of portfolio page on small screen")
+![example of portfolio page on large screen](./assets/images/992-portfolio.png )
+![example of portfolio page on medium screen](./assets/images/768-portfolio.png )
+![example of portfolio page on small screen](./assets/images/400-portfolio.png )
 
 and I created the following page based on this example:
-![Alt text](/assets/images/992-portfolio-actual.png "my portfolio page on large screen")
-![Alt text](/assets/images/768-portfolio-actual.png "my portfolio page on medium screen")
-![Alt text](/assets/images/400-portfolio-actual.png "my portfolio page on small screen")
+![my portfolio page on large screen](./assets/images/992-portfolio-actual.png )
+![my portfolio page on medium screen](./assets/images/768-portfolio-actual.png )
+![my portfolio page on small screen](./assets/images/400-portfolio-actual.png )
 
 For example I was given the following image:
-![Alt text](/assets/images/992-contact.png "example of contact page on large screen")
-![Alt text](/assets/images/768-contact.png "example of contact page on medium screen")
-![Alt text](/assets/images/400-contact.png "example of contact page on small screen")
+![example of contact page on large screen](./assets/images/992-contact.png )
+![example of contact page on medium screen](./assets/images/768-contact.png )
+![example of contact page on small screen](./assets/images/400-contact.png )
 
 and I created the following page based on this example:
-![Alt text](/assets/images/992-contact-actual.png "my contact page on large screen")
-![Alt text](/assets/images/768-contact-actual.png "my contact page on medium screen")
-![Alt text](/assets/images/400-contact-actual.png "my contact page on small screen")
+![my contact page on large screen](./assets/images/992-contact-actual.png )
+![my contact page on medium screen](./assets/images/768-contact-actual.png )
+![my contact page on small screen](./assets/images/400-contact-actual.png )
 
 
 
