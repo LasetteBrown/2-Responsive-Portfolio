@@ -59,6 +59,6 @@ and I created the following page based on this example:
 ### In Development (As in things I still have to do)
 
 * Style personal brand css sheet.
-
+* Add items to portfolio.
 
 © 2021 Lasette Brown. All Rights Reserved.
