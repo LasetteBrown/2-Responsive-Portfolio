@@ -59,13 +59,6 @@ and I created the following page based on this example:
 ### In Development (As in things I still have to do)
 
 * Style personal brand css sheet.
-* make sure all html is semantic and makes sense.
-* Find out what sub-columns and sub-rows are and implement them on Portfolio page.
-* Each page must have valid and correct HTML. (use a validation service)
-* Use an HTML validation service to ensure that each page has valid HTML.
-* Must use semantic html.
-* Each page must have valid and correct HTML. (use a validation service)
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
 
 © 2021 Lasette Brown. All Rights Reserved.
