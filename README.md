@@ -1,67 +1,71 @@
 # 2-Responsive-Portfolio
-A mobile responsive portfolio
 
-# To Do
+A mobile responsive portfolio to display my prowess as a full stack web developer, with which I hope to woo potential employers and earn the respect of fellow developers.
+
+## Purpose and Scope
+
+This portfolio is meant to be a online homepage for me as a web developer. It includes information about me and my path towards web development as a career, links to projects that I have worked on and any apps that I have developed, and a contact page for getting in touch with me.
+
+The portfolio was designed with mobile usage in mind and is meant to be responsive to the size of the viewing screen.
+
+## Built with
+
+Built using html and css with the use of Bootstrap tools available at https://getbootstrap.com/
+
+## Authors
+
+Authored by Lasette Brown. 
+
+## License
+
+The content of this website is copyrighted. Please do not use the content without permission. 
+
+## Process
+
+This website was developed as a homework assignment for the University of Denver Full Stack Web Development Boot Camp (https://bootcamp.du.edu/coding/). I was given images as guides for what this websight could look like. I began by attempting to replicate the images exactly so that I could develope my skills in matching a product to the requested design. 
+
+For example I was given the following images:
+![Alt text](/assets/images/992-index.png "example of homepage on large screen")
+![Alt text](/assets/images/768-index.png "example of homepage on medium screen")
+![Alt text](/assets/images/400-index.png "example of homepage on small screen")
+
+and I created the following pages based on this example:
+![Alt text](/assets/images/992-index-actual.png "my homepage on large screen")
+![Alt text](/assets/images/768-index-actual.png "my homepage on medium screen")
+![Alt text](/assets/images/400-index-actual.png "my homepage on small screen")
+
+For example I was given the following image:
+![Alt text](/assets/images/992-portfolio.png "example of portfolio page on large screen")
+![Alt text](/assets/images/768-portfolio.png "example of portfolio page on medium screen")
+![Alt text](/assets/images/400-portfolio.png "example of portfolio page on small screen")
+
+and I created the following page based on this example:
+![Alt text](/assets/images/992-portfolio-actual.png "my portfolio page on large screen")
+![Alt text](/assets/images/768-portfolio-actual.png "my portfolio page on medium screen")
+![Alt text](/assets/images/400-portfolio-actual.png "my portfolio page on small screen")
+
+For example I was given the following image:
+![Alt text](/assets/images/992-contact.png "example of contact page on large screen")
+![Alt text](/assets/images/768-contact.png "example of contact page on medium screen")
+![Alt text](/assets/images/400-contact.png "example of contact page on small screen")
+
+and I created the following page based on this example:
+![Alt text](/assets/images/992-contact-actual.png "my contact page on large screen")
+![Alt text](/assets/images/768-contact-actual.png "my contact page on medium screen")
+![Alt text](/assets/images/400-contact-actual.png "my contact page on small screen")
+
+
+
+### In Development (As in things I still have to do)
 
 * Style personal brand css sheet.
-<!-- * Create a media query that eliminates margins as it gets to sx. -->
-<!-- * Create a media query that makes content disapear when it gets too small possibly combined with above? -->
-<!-- * Add links and photos to portfolio. -->
-* Write a good README.
 * make sure all html is semantic and makes sense.
-<!-- * Create a sticky footer. -->
 * Find out what sub-columns and sub-rows are and implement them on Portfolio page.
 * Each page must have valid and correct HTML. (use a validation service)
-
-### Hints
-
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
-
 * Use an HTML validation service to ensure that each page has valid HTML.
-
-### Minimum Requirements
-
-* Functional, deployed application
-
-* GitHub repository with README describing the project
-
 * Must use semantic html.
-
 * Each page must have valid and correct HTML. (use a validation service)
-
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
-* Must properly utilize Bootstrap components and grid system.
 
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2021 Lasette Brown. All Rights Reserved.
