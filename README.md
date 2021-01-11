@@ -6,7 +6,7 @@ A mobile responsive portfolio
 * Style personal brand css sheet.
 <!-- * Create a media query that eliminates margins as it gets to sx. -->
 <!-- * Create a media query that makes content disapear when it gets too small possibly combined with above? -->
-* Make the contact email form function.
+<!-- * Add links and photos to portfolio. -->
 * Write a good README.
 * make sure all html is semantic and makes sense.
 * Create a sticky footer.
